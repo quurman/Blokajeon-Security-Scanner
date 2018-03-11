@@ -5,10 +5,6 @@ Blokajeon - Web Applications Security Scanner.
 
 By Ayman Qrishlat - facebook.com/quurman
 
-Thanks: @lnxg33k, @dia2diab @Aelhemily, @okamalo 
-
-Please send all your feedback and suggestions to: zigoo.blog['at']@gmail.com
-
 How to use:
 
 1- python scan.py
